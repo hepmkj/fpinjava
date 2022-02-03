@@ -1,10 +1,10 @@
 package com.fpinjava.lists.exercise05_11;
 
+import org.junit.Test;
+
 import static com.fpinjava.lists.exercise05_10.List.list;
 import static com.fpinjava.lists.exercise05_11.SumProductLength.*;
-import static org.junit.Assert.*;
-
-import org.junit.Test;
+import static org.junit.Assert.assertEquals;
 
 
 public class SumProductLengthTest {

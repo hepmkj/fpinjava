@@ -1,8 +1,9 @@
 package com.fpinjava.recursion.exercise04_08;
 
+import com.fpinjava.common.Function;
+
 import java.util.List;
 
-import com.fpinjava.common.Function;
 import static com.fpinjava.common.CollectionUtilities.*;
 
 public class ComposeAll {

@@ -1,13 +1,6 @@
 package com.fpinjava.io.exercise13_02_;
 
-import com.fpinjava.common.Effect;
-import com.fpinjava.common.Function;
-import com.fpinjava.common.Map;
-import com.fpinjava.common.Result;
-import com.fpinjava.common.Supplier;
-import com.fpinjava.common.TailCall;
-import com.fpinjava.common.Tuple;
-import com.fpinjava.common.Tuple3;
+import com.fpinjava.common.*;
 
 import java.util.Objects;
 import java.util.concurrent.ExecutionException;

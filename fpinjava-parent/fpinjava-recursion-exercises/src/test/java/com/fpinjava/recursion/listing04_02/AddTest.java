@@ -1,11 +1,9 @@
 package com.fpinjava.recursion.listing04_02;
 
-import static org.junit.Assert.*;
-
+import com.fpinjava.recursion.listing04_01.TailCall;
 import org.junit.Test;
 
-import com.fpinjava.recursion.listing04_01.TailCall;
-import com.fpinjava.recursion.listing04_04.Standalone;
+import static org.junit.Assert.assertEquals;
 
 public class AddTest {
 

@@ -5,7 +5,8 @@ import com.fpinjava.common.Function;
 import com.fpinjava.common.Nothing;
 import com.fpinjava.common.Stream;
 
-import static com.fpinjava.io.listing13_14_15_16_17.Console.*;
+import static com.fpinjava.io.listing13_14_15_16_17.Console.printLine;
+import static com.fpinjava.io.listing13_14_15_16_17.Console.readLine;
 import static com.fpinjava.io.listing13_14_15_16_17.IO.*;
 
 

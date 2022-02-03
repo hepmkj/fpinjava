@@ -2,7 +2,7 @@ package com.fpinjava.laziness.listing09_05;
 
 import org.junit.Test;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
 
 public class StreamTest {
 

@@ -3,10 +3,7 @@ package com.fpinjava.optionaldata.exercise06_07;
 
 import com.fpinjava.common.Function;
 import com.fpinjava.common.List;
-import com.fpinjava.common.TailCall;
 import com.fpinjava.optionaldata.exercise06_06.Option;
-
-import static com.fpinjava.common.TailCall.*;
 
 public class Variance {
 

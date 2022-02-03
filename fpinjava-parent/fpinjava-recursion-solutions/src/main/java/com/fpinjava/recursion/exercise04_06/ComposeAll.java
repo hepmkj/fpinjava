@@ -1,11 +1,11 @@
 package com.fpinjava.recursion.exercise04_06;
 
+import com.fpinjava.common.Function;
+
 import java.util.List;
 
-import com.fpinjava.common.Function;
-import static com.fpinjava.recursion.exercise04_05.FoldRight.*;
-
-import static com.fpinjava.common.Function.*;
+import static com.fpinjava.common.Function.identity;
+import static com.fpinjava.recursion.exercise04_05.FoldRight.foldRight;
 
 public class ComposeAll {
 

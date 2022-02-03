@@ -1,9 +1,9 @@
 package com.fpinjava.makingjavafunctional.listing03_04;
 
-import java.util.regex.Pattern;
-
 import com.fpinjava.common.Function;
 import com.fpinjava.makingjavafunctional.listing03_03.Result;
+
+import java.util.regex.Pattern;
 
 public class EmailValidation {
 

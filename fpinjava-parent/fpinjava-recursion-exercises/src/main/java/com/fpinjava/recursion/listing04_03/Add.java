@@ -1,6 +1,7 @@
 package com.fpinjava.recursion.listing04_03;
 
-import static com.fpinjava.recursion.listing04_03.TailCall.*;
+import static com.fpinjava.recursion.listing04_03.TailCall.ret;
+import static com.fpinjava.recursion.listing04_03.TailCall.sus;
 
 public class Add {
 

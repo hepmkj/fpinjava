@@ -1,7 +1,6 @@
 package com.fpinjava.advancedtrees.exercise11_07;
 
 import com.fpinjava.common.List;
-import com.fpinjava.common.Tuple;
 import org.junit.Assert;
 import org.junit.Test;
 

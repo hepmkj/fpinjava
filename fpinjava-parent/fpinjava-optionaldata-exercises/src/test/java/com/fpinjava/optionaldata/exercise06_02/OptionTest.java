@@ -2,8 +2,6 @@ package com.fpinjava.optionaldata.exercise06_02;
 
 import org.junit.Test;
 
-import static org.junit.Assert.assertEquals;
-
 public class OptionTest {
 
   @Test

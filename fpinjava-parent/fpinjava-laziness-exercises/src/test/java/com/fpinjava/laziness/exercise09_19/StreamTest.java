@@ -1,13 +1,9 @@
 package com.fpinjava.laziness.exercise09_19;
 
-import com.fpinjava.common.Function;
-import com.fpinjava.common.List;
-import com.fpinjava.common.Result;
-import com.fpinjava.common.Supplier;
-import com.fpinjava.common.Tuple;
+import com.fpinjava.common.*;
 import org.junit.Test;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
 
 
 public class StreamTest {

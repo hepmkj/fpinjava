@@ -3,7 +3,7 @@ package com.fpinjava.advancedlisthandling.exercise08_17;
 import com.fpinjava.common.Map;
 import org.junit.Test;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
 
 
 public class ListTest {

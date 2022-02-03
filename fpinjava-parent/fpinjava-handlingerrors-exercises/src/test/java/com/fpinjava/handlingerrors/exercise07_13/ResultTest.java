@@ -1,9 +1,9 @@
 package com.fpinjava.handlingerrors.exercise07_13;
 
-import static org.junit.Assert.*;
-
 import com.fpinjava.common.Function;
 import org.junit.Test;
+
+import static org.junit.Assert.assertEquals;
 
 public class ResultTest {
 

@@ -1,10 +1,9 @@
 package com.fpinjava.lists.exercise05_22;
 
-import static org.junit.Assert.*;
-
+import com.fpinjava.lists.exercise05_21.List;
 import org.junit.Test;
 
-import com.fpinjava.lists.exercise05_21.List;
+import static org.junit.Assert.assertEquals;
 
 public class FilterTest {
 

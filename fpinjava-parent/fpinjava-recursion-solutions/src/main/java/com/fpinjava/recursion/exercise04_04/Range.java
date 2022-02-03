@@ -1,10 +1,13 @@
 package com.fpinjava.recursion.exercise04_04;
 
+import com.fpinjava.recursion.listing04_03.TailCall;
+
 import java.util.List;
 
-import com.fpinjava.recursion.listing04_03.TailCall;
-import static com.fpinjava.recursion.listing04_03.TailCall.*;
-import static com.fpinjava.common.CollectionUtilities.*;
+import static com.fpinjava.common.CollectionUtilities.append;
+import static com.fpinjava.common.CollectionUtilities.list;
+import static com.fpinjava.recursion.listing04_03.TailCall.ret;
+import static com.fpinjava.recursion.listing04_03.TailCall.sus;
 
 public class Range {
   

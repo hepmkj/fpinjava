@@ -1,8 +1,9 @@
 package com.fpinjava.introduction.listing01_05;
 
-import static com.fpinjava.common.List.fill;
 import com.fpinjava.common.List;
 import com.fpinjava.common.Tuple;
+
+import static com.fpinjava.common.List.fill;
 
 public class DonutShop {
 

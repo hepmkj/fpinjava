@@ -5,8 +5,6 @@ import com.fpinjava.common.Result;
 import com.fpinjava.common.TailCall;
 import com.fpinjava.common.Tuple;
 
-import java.util.Objects;
-
 import static com.fpinjava.common.TailCall.ret;
 import static com.fpinjava.common.TailCall.sus;
 

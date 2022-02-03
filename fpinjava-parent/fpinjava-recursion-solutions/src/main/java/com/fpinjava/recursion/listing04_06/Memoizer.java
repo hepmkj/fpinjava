@@ -1,9 +1,9 @@
 package com.fpinjava.recursion.listing04_06;
 
+import com.fpinjava.common.Function;
+
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
-
-import com.fpinjava.common.Function;
 
 public class Memoizer<T, U> {
 

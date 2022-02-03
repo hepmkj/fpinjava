@@ -1,14 +1,13 @@
 package com.fpinjava.lists.exercise05_13;
 
-import static org.junit.Assert.*;
-
-import org.junit.Test;
-
 import com.fpinjava.common.Function;
 import com.fpinjava.lists.exercise05_10.List;
+import org.junit.Test;
 
-import static com.fpinjava.lists.exercise05_10.List.*;
-import static com.fpinjava.lists.exercise05_13.Folds.*;
+import static com.fpinjava.lists.exercise05_10.List.list;
+import static com.fpinjava.lists.exercise05_13.Folds.foldLeftViaFoldRight;
+import static com.fpinjava.lists.exercise05_13.Folds.foldRightViaFoldLeft;
+import static org.junit.Assert.assertEquals;
 
 public class FoldsTest {
 

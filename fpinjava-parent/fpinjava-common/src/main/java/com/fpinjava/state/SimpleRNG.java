@@ -1,12 +1,8 @@
 package com.fpinjava.state;
 
-import java.util.Random;
+import com.fpinjava.common.*;
 
-import com.fpinjava.common.Function;
-import com.fpinjava.common.List;
-import com.fpinjava.common.TailCall;
-import com.fpinjava.common.Tuple;
-import com.fpinjava.common.Tuple3;
+import java.util.Random;
 
 public class SimpleRNG {
 

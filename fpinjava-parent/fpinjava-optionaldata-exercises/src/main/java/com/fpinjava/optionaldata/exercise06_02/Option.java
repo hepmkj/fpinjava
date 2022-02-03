@@ -1,8 +1,6 @@
 package com.fpinjava.optionaldata.exercise06_02;
 
 
-import com.fpinjava.common.Supplier;
-
 public abstract class Option<A> {
 
   @SuppressWarnings("rawtypes")

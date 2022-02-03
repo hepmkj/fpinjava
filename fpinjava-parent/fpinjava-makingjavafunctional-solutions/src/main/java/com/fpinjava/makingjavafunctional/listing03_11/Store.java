@@ -1,11 +1,13 @@
 package com.fpinjava.makingjavafunctional.listing03_11;
 
 
-import java.util.List;
-
-import static com.fpinjava.common.CollectionUtilities.*;
 import com.fpinjava.makingjavafunctional.listing03_10.OrderLine;
 import com.fpinjava.makingjavafunctional.listing03_10.Product;
+
+import java.util.List;
+
+import static com.fpinjava.common.CollectionUtilities.foldLeft;
+import static com.fpinjava.common.CollectionUtilities.list;
 
 public class Store {
 

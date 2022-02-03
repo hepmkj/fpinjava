@@ -1,12 +1,12 @@
 package com.fpinjava.introduction.listing01_06;
 
-import static org.junit.Assert.*;
-
-import org.junit.Test;
-
 import com.fpinjava.common.List;
 import com.fpinjava.common.Map;
 import com.fpinjava.common.Tuple;
+import org.junit.Test;
+
+import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertTrue;
 
 public class PaymentTest {
 

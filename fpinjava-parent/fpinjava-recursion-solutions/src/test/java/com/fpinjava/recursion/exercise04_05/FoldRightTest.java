@@ -1,13 +1,12 @@
 package com.fpinjava.recursion.exercise04_05;
 
-import static com.fpinjava.common.CollectionUtilities.list;
-import static org.junit.Assert.*;
+import com.fpinjava.common.Function;
+import org.junit.Test;
 
 import java.util.List;
 
-import org.junit.Test;
-
-import com.fpinjava.common.Function;
+import static com.fpinjava.common.CollectionUtilities.list;
+import static org.junit.Assert.assertEquals;
 
 public class FoldRightTest {
 

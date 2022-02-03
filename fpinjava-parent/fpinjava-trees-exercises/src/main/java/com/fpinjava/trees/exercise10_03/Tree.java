@@ -1,8 +1,6 @@
 package com.fpinjava.trees.exercise10_03;
 
 
-import com.fpinjava.common.List;
-
 public abstract class Tree<A extends Comparable<A>> {
 
   @SuppressWarnings("rawtypes")

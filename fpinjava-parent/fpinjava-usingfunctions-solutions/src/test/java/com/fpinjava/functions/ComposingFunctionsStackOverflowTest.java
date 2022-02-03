@@ -1,8 +1,8 @@
 package com.fpinjava.functions;
 
-import static com.fpinjava.functions.ComposingFunctionsStackOverflow.*;
-
 import org.junit.Test;
+
+import static com.fpinjava.functions.ComposingFunctionsStackOverflow.g;
 
 public class ComposingFunctionsStackOverflowTest {
 

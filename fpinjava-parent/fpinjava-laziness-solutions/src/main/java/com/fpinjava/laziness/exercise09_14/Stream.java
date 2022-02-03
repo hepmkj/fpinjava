@@ -1,10 +1,6 @@
 package com.fpinjava.laziness.exercise09_14;
 
-import com.fpinjava.common.Function;
-import com.fpinjava.common.List;
-import com.fpinjava.common.Result;
-import com.fpinjava.common.Supplier;
-import com.fpinjava.common.TailCall;
+import com.fpinjava.common.*;
 
 import static com.fpinjava.common.TailCall.ret;
 import static com.fpinjava.common.TailCall.sus;

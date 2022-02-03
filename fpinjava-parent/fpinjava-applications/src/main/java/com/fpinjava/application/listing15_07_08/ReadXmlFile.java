@@ -1,7 +1,6 @@
 package com.fpinjava.application.listing15_07_08;
 
-import com.fpinjava.common.List;
-import com.fpinjava.common.Result;
+import com.fpinjava.common.*;
 import org.jdom2.Document;
 import org.jdom2.Element;
 import org.jdom2.JDOMException;
@@ -11,8 +10,6 @@ import java.io.IOException;
 import java.io.StringReader;
 import java.nio.file.Files;
 import java.nio.file.Paths;
-
-import com.fpinjava.common.*;
 
 public class ReadXmlFile {
 

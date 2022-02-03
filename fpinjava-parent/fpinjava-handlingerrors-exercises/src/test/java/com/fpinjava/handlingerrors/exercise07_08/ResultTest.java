@@ -1,8 +1,8 @@
 package com.fpinjava.handlingerrors.exercise07_08;
 
-import static org.junit.Assert.*;
-
 import org.junit.Test;
+
+import static org.junit.Assert.assertEquals;
 
 public class ResultTest {
 

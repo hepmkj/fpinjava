@@ -3,7 +3,6 @@ package com.fpinjava.advancedtrees.exercise11_08;
 
 import com.fpinjava.common.Result;
 
-import java.util.Comparator;
 import java.util.NoSuchElementException;
 
 public abstract class Heap<A extends Comparable<A>> {

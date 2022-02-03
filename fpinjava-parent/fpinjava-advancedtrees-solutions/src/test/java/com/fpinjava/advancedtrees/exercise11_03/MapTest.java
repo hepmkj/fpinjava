@@ -4,7 +4,7 @@ import com.fpinjava.common.List;
 import com.fpinjava.common.Result;
 import org.junit.Test;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertTrue;
 
 
 public class MapTest {

@@ -1,7 +1,8 @@
 package com.fpinjava.lists.exercise05_12;
 
 import com.fpinjava.lists.exercise05_10.List;
-import static com.fpinjava.lists.exercise05_10.List.*;
+
+import static com.fpinjava.lists.exercise05_10.List.list;
 
 public class Reverse {
 

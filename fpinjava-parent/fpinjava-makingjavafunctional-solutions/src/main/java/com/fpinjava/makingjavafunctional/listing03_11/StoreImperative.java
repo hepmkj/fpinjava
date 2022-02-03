@@ -1,10 +1,10 @@
 package com.fpinjava.makingjavafunctional.listing03_11;
 
-import java.util.ArrayList;
-import java.util.List;
-
 import com.fpinjava.makingjavafunctional.listing03_10.OrderLine;
 import com.fpinjava.makingjavafunctional.listing03_10.Product;
+
+import java.util.ArrayList;
+import java.util.List;
 
 public class StoreImperative {
 

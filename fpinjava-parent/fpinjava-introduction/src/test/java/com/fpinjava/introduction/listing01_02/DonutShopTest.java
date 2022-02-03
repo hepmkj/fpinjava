@@ -1,8 +1,8 @@
 package com.fpinjava.introduction.listing01_02;
 
-import static org.junit.Assert.*;
-
 import org.junit.Test;
+
+import static org.junit.Assert.assertEquals;
 
 public class DonutShopTest {
 

@@ -1,11 +1,7 @@
 package com.fpinjava.io.listing13_14_15_16_17;
 
 
-import com.fpinjava.common.Function;
-import com.fpinjava.common.Nothing;
-import com.fpinjava.common.Stream;
-import com.fpinjava.common.Supplier;
-import com.fpinjava.common.TailCall;
+import com.fpinjava.common.*;
 
 import static com.fpinjava.common.TailCall.ret;
 import static com.fpinjava.common.TailCall.sus;

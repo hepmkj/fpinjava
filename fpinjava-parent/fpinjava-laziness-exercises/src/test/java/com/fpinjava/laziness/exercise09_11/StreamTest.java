@@ -3,7 +3,7 @@ package com.fpinjava.laziness.exercise09_11;
 import com.fpinjava.common.List;
 import org.junit.Test;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
 
 
 public class StreamTest {

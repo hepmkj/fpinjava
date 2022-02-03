@@ -5,7 +5,10 @@ import com.fpinjava.common.Result;
 import com.fpinjava.io.listing13_02.Input;
 import com.fpinjava.io.listing13_03.AbstractReader;
 
-import java.io.*;
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.InputStreamReader;
 
 public class FileReader extends AbstractReader {
 

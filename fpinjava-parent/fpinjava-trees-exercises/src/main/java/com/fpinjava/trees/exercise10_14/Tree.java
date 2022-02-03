@@ -5,7 +5,6 @@ import com.fpinjava.common.Function;
 import com.fpinjava.common.List;
 import com.fpinjava.common.Result;
 import com.fpinjava.common.TailCall;
-import com.fpinjava.common.Tuple;
 
 public abstract class Tree<A extends Comparable<A>> {
 

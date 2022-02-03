@@ -1,9 +1,10 @@
 package com.fpinjava.functions.exercise02_12;
 
-import static org.junit.Assert.*;
-import static com.fpinjava.functions.exercise02_12.FunctionExamples.*;
-
 import org.junit.Test;
+
+import static com.fpinjava.functions.exercise02_12.FunctionExamples.factorial0;
+import static com.fpinjava.functions.exercise02_12.FunctionExamples.factorial1;
+import static org.junit.Assert.assertEquals;
 
 public class FunctionExamplesTest {
 

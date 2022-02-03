@@ -1,12 +1,5 @@
 package com.fpinjava.advancedtrees.exercise11_02;
 
-import com.fpinjava.common.List;
-import com.fpinjava.state.SimpleRNG;
-import org.junit.Test;
-
-import static org.junit.Assert.assertTrue;
-
-
 public class MapTest {
 
   /*

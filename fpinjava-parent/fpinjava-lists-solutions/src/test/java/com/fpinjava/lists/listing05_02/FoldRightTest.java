@@ -1,11 +1,11 @@
 package com.fpinjava.lists.listing05_02;
 
-import static com.fpinjava.lists.exercise05_06.List.list;
-import static com.fpinjava.lists.listing05_02.FoldRight.sum;
-import static com.fpinjava.lists.listing05_02.FoldRight.product;
-import static org.junit.Assert.*;
-
 import org.junit.Test;
+
+import static com.fpinjava.lists.exercise05_06.List.list;
+import static com.fpinjava.lists.listing05_02.FoldRight.product;
+import static com.fpinjava.lists.listing05_02.FoldRight.sum;
+import static org.junit.Assert.assertEquals;
 
 public class FoldRightTest {
 

@@ -1,7 +1,6 @@
 package com.fpinjava.advancedtrees.exercise11_03;
 
 
-import com.fpinjava.common.Function;
 import com.fpinjava.common.List;
 import com.fpinjava.common.Result;
 

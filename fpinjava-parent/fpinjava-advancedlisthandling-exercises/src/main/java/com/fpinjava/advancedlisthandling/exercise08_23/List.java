@@ -1,15 +1,8 @@
 package com.fpinjava.advancedlisthandling.exercise08_23;
 
-import com.fpinjava.common.Function;
-import com.fpinjava.common.Map;
-import com.fpinjava.common.Result;
-import com.fpinjava.common.Supplier;
-import com.fpinjava.common.TailCall;
-import com.fpinjava.common.Tuple;
-import com.fpinjava.common.Tuple3;
+import com.fpinjava.common.*;
 
 import java.util.Objects;
-import java.util.concurrent.ExecutionException;
 import java.util.concurrent.ExecutorService;
 
 import static com.fpinjava.common.TailCall.ret;

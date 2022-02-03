@@ -1,8 +1,8 @@
 package com.fpinjava.recursion.exercise04_09;
 
-import static org.junit.Assert.*;
-
 import org.junit.Test;
+
+import static org.junit.Assert.assertEquals;
 
 public class MemoizationTest {
 

@@ -2,13 +2,13 @@ package com.fpinjava.advancedtrees.exercise11_09;
 
 import com.fpinjava.common.List;
 import com.fpinjava.common.Result;
-import com.fpinjava.common.Tuple;
 import com.fpinjava.state.SimpleRNG;
 import org.junit.Test;
 
 import java.util.Comparator;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertTrue;
 
 
 public class HeapTest {

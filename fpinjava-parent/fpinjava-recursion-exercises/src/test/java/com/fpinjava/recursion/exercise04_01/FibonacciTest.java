@@ -1,10 +1,10 @@
 package com.fpinjava.recursion.exercise04_01;
 
-import static org.junit.Assert.*;
+import org.junit.Test;
 
 import java.math.BigInteger;
 
-import org.junit.Test;
+import static org.junit.Assert.assertEquals;
 
 public class FibonacciTest {
 

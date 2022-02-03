@@ -4,12 +4,7 @@ package com.fpinjava.advancedtrees.exercise11_02;
 import com.fpinjava.common.Tuple;
 import org.junit.Test;
 
-import static com.fpinjava.advancedtrees.exercise11_02.NumbersToEnglish.Locale;
-import static com.fpinjava.advancedtrees.exercise11_02.NumbersToEnglish.convertGB;
-import static com.fpinjava.advancedtrees.exercise11_02.NumbersToEnglish.convertUS;
-import static com.fpinjava.advancedtrees.exercise11_02.NumbersToEnglish.convertUnder1000;
-import static com.fpinjava.advancedtrees.exercise11_02.NumbersToEnglish.decompose;
-import static com.fpinjava.advancedtrees.exercise11_02.NumbersToEnglish.thousands2String;
+import static com.fpinjava.advancedtrees.exercise11_02.NumbersToEnglish.*;
 import static org.junit.Assert.assertEquals;
 
 public class NumbersToEnglishTest {

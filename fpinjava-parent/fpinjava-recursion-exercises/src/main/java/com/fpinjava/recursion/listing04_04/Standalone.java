@@ -2,7 +2,9 @@ package com.fpinjava.recursion.listing04_04;
 
 import com.fpinjava.common.Function;
 import com.fpinjava.recursion.listing04_03.TailCall;
-import static com.fpinjava.recursion.listing04_03.TailCall.*;
+
+import static com.fpinjava.recursion.listing04_03.TailCall.ret;
+import static com.fpinjava.recursion.listing04_03.TailCall.sus;
 
 public class Standalone {
 

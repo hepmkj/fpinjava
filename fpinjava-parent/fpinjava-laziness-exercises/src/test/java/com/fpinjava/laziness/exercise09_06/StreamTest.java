@@ -1,8 +1,6 @@
 package com.fpinjava.laziness.exercise09_06;
 
-import com.fpinjava.common.Function;
 import com.fpinjava.common.List;
-import com.fpinjava.common.Supplier;
 import org.junit.Test;
 
 import static org.junit.Assert.*;

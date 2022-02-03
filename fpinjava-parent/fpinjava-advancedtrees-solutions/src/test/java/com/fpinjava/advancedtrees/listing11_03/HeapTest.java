@@ -2,7 +2,6 @@ package com.fpinjava.advancedtrees.listing11_03;
 
 import org.junit.Test;
 
-
 import static org.junit.Assert.assertTrue;
 
 

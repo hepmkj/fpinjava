@@ -1,10 +1,9 @@
 package com.fpinjava.introduction.listing01_04;
 
-import static org.junit.Assert.*;
-
+import com.fpinjava.common.Tuple;
 import org.junit.Test;
 
-import com.fpinjava.common.Tuple;
+import static org.junit.Assert.assertEquals;
 
 public class DonutShopTest {
 

@@ -1,10 +1,10 @@
 package com.fpinjava.handlingerrors.exercise07_06;
 
-import static org.junit.Assert.*;
-
+import com.fpinjava.common.Function;
 import org.junit.Test;
 
-import com.fpinjava.common.Function;
+import static org.junit.Assert.assertFalse;
+import static org.junit.Assert.assertTrue;
 
 public class ResultTest {
 

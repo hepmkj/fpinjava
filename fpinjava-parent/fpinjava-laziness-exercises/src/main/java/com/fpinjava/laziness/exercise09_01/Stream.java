@@ -1,6 +1,5 @@
 package com.fpinjava.laziness.exercise09_01;
 
-import com.fpinjava.common.List;
 import com.fpinjava.common.Result;
 import com.fpinjava.common.Supplier;
 

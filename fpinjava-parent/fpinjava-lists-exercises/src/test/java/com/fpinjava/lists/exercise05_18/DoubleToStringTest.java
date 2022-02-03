@@ -1,10 +1,9 @@
 package com.fpinjava.lists.exercise05_18;
 
-import static org.junit.Assert.*;
-
+import com.fpinjava.lists.exercise05_16.List;
 import org.junit.Test;
 
-import com.fpinjava.lists.exercise05_16.List;
+import static org.junit.Assert.assertEquals;
 
 public class DoubleToStringTest {
 

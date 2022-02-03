@@ -1,12 +1,8 @@
 package com.fpinjava.advancedtrees.exercise11_05;
 
-import static org.junit.Assert.*;
-
 import com.fpinjava.common.List;
-import com.fpinjava.common.Result;
 import org.junit.Assert;
 import org.junit.Test;
-import static org.junit.Assert.assertEquals;
 
 
 public class HeapTest {

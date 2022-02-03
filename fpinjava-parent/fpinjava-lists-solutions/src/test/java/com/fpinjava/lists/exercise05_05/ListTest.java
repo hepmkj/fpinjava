@@ -1,9 +1,9 @@
 package com.fpinjava.lists.exercise05_05;
 
+import org.junit.Test;
+
 import static com.fpinjava.lists.exercise05_05.List.list;
 import static org.junit.Assert.assertEquals;
-
-import org.junit.Test;
 
 
 public class ListTest {

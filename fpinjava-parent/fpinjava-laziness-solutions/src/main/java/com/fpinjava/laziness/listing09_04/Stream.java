@@ -1,6 +1,6 @@
 package com.fpinjava.laziness.listing09_04;
 
-import com.fpinjava.common.*;
+import com.fpinjava.common.Supplier;
 
 
 abstract class Stream<A> {

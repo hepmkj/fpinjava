@@ -1,13 +1,11 @@
 package com.fpinjava.recursion.exercise04_06;
 
-import static org.junit.Assert.*;
-
-import org.junit.Test;
-
 import com.fpinjava.common.CollectionUtilities;
 import com.fpinjava.common.Function;
+import org.junit.Test;
 
-import static com.fpinjava.recursion.exercise04_04.Range.*;
+import static com.fpinjava.recursion.exercise04_04.Range.range;
+import static org.junit.Assert.assertEquals;
 
 public class ComposeAllTest {
 

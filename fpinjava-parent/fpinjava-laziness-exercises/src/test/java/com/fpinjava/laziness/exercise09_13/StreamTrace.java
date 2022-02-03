@@ -4,8 +4,6 @@ package com.fpinjava.laziness.exercise09_13;
 import com.fpinjava.common.Function;
 import com.fpinjava.common.List;
 
-import static org.junit.Assert.assertEquals;
-
 public class StreamTrace {
 
   private static int evaluate(int n) {

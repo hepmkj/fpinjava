@@ -3,7 +3,7 @@ package com.fpinjava.trees.exercise10_09;
 import com.fpinjava.common.Function;
 import org.junit.Test;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
 
 
 public class TreeTest {

@@ -1,12 +1,13 @@
 package com.fpinjava.recursion.exercise04_05;
 
-import java.util.List;
-
 import com.fpinjava.common.Function;
 import com.fpinjava.recursion.listing04_03.TailCall;
 
-import static com.fpinjava.recursion.listing04_03.TailCall.*;
+import java.util.List;
+
 import static com.fpinjava.common.CollectionUtilities.*;
+import static com.fpinjava.recursion.listing04_03.TailCall.ret;
+import static com.fpinjava.recursion.listing04_03.TailCall.sus;
 
 public class FoldRight {
 

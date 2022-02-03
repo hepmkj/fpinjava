@@ -1,10 +1,11 @@
 package com.fpinjava.makingjavafunctional.valuetypes;
 
-import static com.fpinjava.common.CollectionUtilities.*;
-import static com.fpinjava.makingjavafunctional.valuetypes.Price.*;
-import static com.fpinjava.makingjavafunctional.valuetypes.Weight.*;
-
 import java.util.List;
+
+import static com.fpinjava.common.CollectionUtilities.foldLeft;
+import static com.fpinjava.common.CollectionUtilities.list;
+import static com.fpinjava.makingjavafunctional.valuetypes.Price.price;
+import static com.fpinjava.makingjavafunctional.valuetypes.Weight.weight;
 
 public class Store {
 

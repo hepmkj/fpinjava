@@ -1,15 +1,15 @@
 package com.fpinjava.makingjavafunctional.listing03_09;
 
+import com.fpinjava.common.Function;
+import com.fpinjava.makingjavafunctional.exercise03_01.Effect;
+import com.fpinjava.makingjavafunctional.exercise03_01.Result;
+
+import java.util.regex.Pattern;
+
 import static com.fpinjava.makingjavafunctional.exercise03_01.Result.failure;
 import static com.fpinjava.makingjavafunctional.exercise03_01.Result.success;
 import static com.fpinjava.makingjavafunctional.listing03_08.Case.match;
 import static com.fpinjava.makingjavafunctional.listing03_08.Case.mcase;
-
-import java.util.regex.Pattern;
-
-import com.fpinjava.common.Function;
-import com.fpinjava.makingjavafunctional.exercise03_01.Effect;
-import com.fpinjava.makingjavafunctional.exercise03_01.Result;
 
 public class EmailValidation {
 

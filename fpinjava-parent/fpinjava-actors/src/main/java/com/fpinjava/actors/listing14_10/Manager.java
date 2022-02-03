@@ -1,12 +1,7 @@
 package com.fpinjava.actors.listing14_10;
 
 
-import com.fpinjava.common.Effect;
-import com.fpinjava.common.Executable;
-import com.fpinjava.common.Function;
-import com.fpinjava.common.List;
-import com.fpinjava.common.Result;
-import com.fpinjava.common.Tuple;
+import com.fpinjava.common.*;
 
 public class Manager extends AbstractActor<Integer> {
 

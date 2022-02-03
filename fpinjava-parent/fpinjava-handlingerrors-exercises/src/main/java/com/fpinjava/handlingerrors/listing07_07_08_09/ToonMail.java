@@ -3,8 +3,6 @@ package com.fpinjava.handlingerrors.listing07_07_08_09;
 
 import com.fpinjava.handlingerrors.listing07_06.Result;
 
-import java.io.IOException;
-
 public class ToonMail {
 
   public static void main(String[] args) {

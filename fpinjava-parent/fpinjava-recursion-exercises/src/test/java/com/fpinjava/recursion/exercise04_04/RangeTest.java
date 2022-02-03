@@ -1,8 +1,8 @@
 package com.fpinjava.recursion.exercise04_04;
 
-import static org.junit.Assert.assertEquals;
-
 import org.junit.Test;
+
+import static org.junit.Assert.assertEquals;
 
 public class RangeTest {
 

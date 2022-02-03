@@ -1,12 +1,14 @@
 package com.fpinjava.recursion.corecursion;
 
-import java.math.BigInteger;
-import java.util.List;
-
-import static com.fpinjava.common.CollectionUtilities.*;
 import com.fpinjava.common.Function;
 import com.fpinjava.common.Tuple;
 import com.fpinjava.recursion.exercise04_09.Memoization;
+
+import java.math.BigInteger;
+import java.util.List;
+
+import static com.fpinjava.common.CollectionUtilities.iterate;
+import static com.fpinjava.common.CollectionUtilities.map;
 
 public class Corecursion {
 

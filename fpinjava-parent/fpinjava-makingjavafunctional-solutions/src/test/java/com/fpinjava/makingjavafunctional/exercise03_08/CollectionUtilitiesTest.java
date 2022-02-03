@@ -1,13 +1,13 @@
 package com.fpinjava.makingjavafunctional.exercise03_08;
 
-import static org.junit.Assert.*;
-import static com.fpinjava.makingjavafunctional.exercise03_08.CollectionUtilities.*;
+import com.fpinjava.common.Function;
+import org.junit.Test;
 
 import java.util.List;
 
-import org.junit.Test;
-
-import com.fpinjava.common.Function;
+import static com.fpinjava.makingjavafunctional.exercise03_08.CollectionUtilities.foldRight;
+import static com.fpinjava.makingjavafunctional.exercise03_08.CollectionUtilities.list;
+import static org.junit.Assert.assertEquals;
 
 public class CollectionUtilitiesTest {
 

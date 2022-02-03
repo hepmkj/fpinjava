@@ -1,11 +1,7 @@
 package com.fpinjava.trees.exercise10_14;
 
 
-import com.fpinjava.common.Function;
-import com.fpinjava.common.List;
-import com.fpinjava.common.Result;
-import com.fpinjava.common.TailCall;
-import com.fpinjava.common.Tuple;
+import com.fpinjava.common.*;
 
 public abstract class Tree<A extends Comparable<A>> {
 

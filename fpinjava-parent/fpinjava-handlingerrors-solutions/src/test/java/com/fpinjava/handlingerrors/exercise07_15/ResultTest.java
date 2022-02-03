@@ -2,7 +2,7 @@ package com.fpinjava.handlingerrors.exercise07_15;
 
 import org.junit.Test;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
 
 
 public class ResultTest {

@@ -1,11 +1,7 @@
 package com.fpinjava.io.listing13_13;
 
 
-import com.fpinjava.common.Function;
-import com.fpinjava.common.List;
-import com.fpinjava.common.Nothing;
-import com.fpinjava.common.Stream;
-import com.fpinjava.common.Supplier;
+import com.fpinjava.common.*;
 
 public interface IO<A> {
 

@@ -1,9 +1,8 @@
 package com.fpinjava.advancedlisthandling.exercise08_02;
 
-import static org.junit.Assert.*;
-
-import com.fpinjava.advancedlisthandling.exercise08_03.*;
 import org.junit.Test;
+
+import static org.junit.Assert.assertEquals;
 
 public class ListTest {
 

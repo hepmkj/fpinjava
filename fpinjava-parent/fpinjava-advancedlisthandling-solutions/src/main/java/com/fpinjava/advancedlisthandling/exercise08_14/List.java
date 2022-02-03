@@ -4,7 +4,6 @@ import com.fpinjava.common.Function;
 import com.fpinjava.common.Result;
 import com.fpinjava.common.TailCall;
 import com.fpinjava.common.Tuple;
-import com.fpinjava.common.Tuple3;
 
 import java.util.Objects;
 

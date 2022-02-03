@@ -3,7 +3,8 @@ package com.fpinjava.lists.exercise05_20;
 import com.fpinjava.common.Function;
 import com.fpinjava.common.TailCall;
 
-import static com.fpinjava.common.TailCall.*;
+import static com.fpinjava.common.TailCall.ret;
+import static com.fpinjava.common.TailCall.sus;
 
 
 public abstract class List<A> {

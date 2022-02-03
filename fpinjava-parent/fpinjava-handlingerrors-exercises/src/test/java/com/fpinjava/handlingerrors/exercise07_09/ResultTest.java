@@ -1,8 +1,8 @@
 package com.fpinjava.handlingerrors.exercise07_09;
 
-import static org.junit.Assert.*;
-
 import org.junit.Test;
+
+import static org.junit.Assert.assertEquals;
 
 /**
  * Non functional method tested with a non functional test!

@@ -1,11 +1,13 @@
 package com.fpinjava.recursion.listing04_05;
 
+import com.fpinjava.recursion.listing04_03.TailCall;
+
 import java.math.BigInteger;
 import java.util.List;
 
 import static com.fpinjava.common.CollectionUtilities.*;
-import com.fpinjava.recursion.listing04_03.TailCall;
-import static com.fpinjava.recursion.listing04_03.TailCall.*;
+import static com.fpinjava.recursion.listing04_03.TailCall.ret;
+import static com.fpinjava.recursion.listing04_03.TailCall.sus;
 
 public class Memoization {
 

@@ -1,11 +1,7 @@
 package com.fpinjava.application.countdown;
 
 
-import com.fpinjava.common.Executable;
-import com.fpinjava.common.List;
-import com.fpinjava.common.Nothing;
-import com.fpinjava.common.Result;
-import com.fpinjava.common.Tuple;
+import com.fpinjava.common.*;
 import com.fpinjava.io.Console;
 import com.fpinjava.io.IO;
 
